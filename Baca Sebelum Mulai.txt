@@ -1,0 +1,7 @@
+NAMA : NURJANAH DWI ANGGRAINI
+NIM  : 202169040096
+
+Ini menggunakan ekosistem breeze untuk login register,jadi untuk menjalankannya jangan lupa aktifkan
+
+npm run dev
+
